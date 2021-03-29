@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "Home",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\profile"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\setting"
+      },
+      {
+        "path": "/edit",
+        "name": "edit",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\edit"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\37426\\\\Desktop\\\\BigWebFront\\\\part3\\\\03\\\\realword-nuxtjs-demo\\\\pages\\\\article"
+      }
+    ]
+  }
+]
