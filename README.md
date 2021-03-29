@@ -1,1 +1,1 @@
-# nuxt-ssr-realworld-demo
+117.50.105.27:3000
